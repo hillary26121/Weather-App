@@ -36,40 +36,40 @@ $(document).ready( function() {
 
 
 
-//let weather = [
- //   { date: "4/1/2019",
- //     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
- //     high: "60º",
- //     low: "45º"
- //   },
- //   { date: "4/2/2019",
- //     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
- //     high: "55º",
- //     low: "45º"
- //   },
- //   { date: "4/3/2019",
- //     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
- //     high: "73º",
- //     low: "45º"
- //   },
- //   { date: "4/4/2019",
- //     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
- //     high: "80º",
- //     low: "45º"
- //   },
- //   { date: "4/5/2019",
- //     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
- //     high: "60º",
- //     low: "45º"
- //   },
- //   { date: "4/6/2019",
- //     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
- //     high: "24º",
- //     low: "45º"
- //   },
- //   { date: "4/7/2019",
- //     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
- //     high: "0º",
- //     low: "45º"
- //   }
- // ];
+let weather = [
+   { date: "4/1/2019",
+     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
+     high: "60º",
+     low: "45º"
+   },
+   { date: "4/2/2019",
+     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
+     high: "55º",
+     low: "45º"
+   },
+   { date: "4/3/2019",
+     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
+     high: "73º",
+     low: "45º"
+   },
+   { date: "4/4/2019",
+     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
+     high: "80º",
+     low: "45º"
+   },
+   { date: "4/5/2019",
+     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
+     high: "60º",
+     low: "45º"
+   },
+   { date: "4/6/2019",
+     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
+     high: "24º",
+     low: "45º"
+   },
+   { date: "4/7/2019",
+     imgUrl: "https://cdn.apixu.com/weather/64x64/night/113.png",
+     high: "0º",
+     low: "45º"
+   }
+ ];
